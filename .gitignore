@@ -2,4 +2,4 @@
 .DS_Store
 
 # Image and annotation data from the Stanford Dogs Dataset
-Data/
+data/
